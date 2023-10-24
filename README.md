@@ -1,2 +1,2 @@
-# revival2.0
+# revival
 let's start again, this time with a bang!
